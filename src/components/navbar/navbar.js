@@ -14,7 +14,7 @@ const Navi = () => {
     </Navbar.Brand>
     <Nav className="mr-auto" style={{marginLeft: "50%"}}>
      <Link to="/"><Nav.Link href="#home">Home</Nav.Link></Link> 
-     <Link to="/services"> <Nav.Link href="#features">Services</Nav.Link></Link>
+     <Link to="/book"> <Nav.Link href="#book">Book Slot</Nav.Link></Link>
      <Link to="/about"><Nav.Link href="#About">About</Nav.Link></Link> 
      <Link to="/contact"><Nav.Link href="#contact">Contact Us</Nav.Link></Link>
     </Nav>
