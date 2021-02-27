@@ -17,7 +17,7 @@ const Contact = () => {
         <label style={{color: "white"}}>Message</label>
       <TextArea placeholder='Type your Message here' />
     </Form.Field>
-    <Button basic inverted color='green'>
+    <Button basic inverted color='blue'>
         Send
       </Button>
   </Form>
